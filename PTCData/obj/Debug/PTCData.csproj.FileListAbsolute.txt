@@ -1,0 +1,5 @@
+c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\bin\Debug\PTCData.dll
+c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\bin\Debug\PTCData.pdb
+c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\obj\Debug\PTCData.csprojResolveAssemblyReference.cache
+c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\obj\Debug\PTCData.dll
+c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\obj\Debug\PTCData.pdb
