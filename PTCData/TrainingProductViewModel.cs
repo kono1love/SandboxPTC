@@ -29,10 +29,12 @@ namespace PTCData
         public bool IsDetailAreaVisible { get; set; }
         public bool IsListAreaVisible { get; set; }
         public bool IsSearchAreaVisible { get; set; }
+        public  string EventArgument { get; set; }
 
         private void Init()
         {
             EventCommand = "List";
+            EventArgument = string.Empty;
 
             ValidationErrors = new List<KeyValuePair<string, string>>();
 
@@ -53,6 +55,11 @@ namespace PTCData
                     {
                         Get();
                     }
+                    break;
+
+                case "edit":
+                    IsValid = true;
+                    Edit();
                     break;
 
                 case "cancel":
@@ -82,6 +89,10 @@ namespace PTCData
             {
                 mgr.Insert(Entity);
             }
+            else
+            {
+                mgr.Update(Entity);
+            }
 
             ValidationErrors = mgr.ValidationErrors;
 
@@ -89,12 +100,17 @@ namespace PTCData
             {
                 IsValid = false;
             }
+            
 
             if (!IsValid)
             { 
                 if (Mode == "Add")
                 {
                     AddMode();
+                }
+                else
+                {
+                    EditMode();
                 }
             }
         }
@@ -122,6 +138,15 @@ namespace PTCData
             AddMode();
         }
 
+        private void Edit()
+        {
+            TrainingProductManager mgr = new TrainingProductManager();
+
+            Entity = mgr.Get(Convert.ToInt32(EventArgument));
+
+            EditMode(); 
+        }
+
         private void AddMode()
         {
       
@@ -130,6 +155,16 @@ namespace PTCData
             IsSearchAreaVisible = false;
 
             Mode = "Add";
+        }
+
+        private void EditMode()
+        {
+
+            IsDetailAreaVisible = true;
+            IsListAreaVisible = false;
+            IsSearchAreaVisible = false;
+
+            Mode = "Edit";
         }
 
         private void ResetSearch()
