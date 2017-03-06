@@ -3,3 +3,8 @@ c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\bin\
 c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\obj\Debug\PTCData.csprojResolveAssemblyReference.cache
 c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\obj\Debug\PTCData.dll
 c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\PTCData\obj\Debug\PTCData.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\bin\Debug\PTCData.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\bin\Debug\PTCData.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\obj\Debug\PTCData.csprojResolveAssemblyReference.cache
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\obj\Debug\PTCData.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\obj\Debug\PTCData.pdb

@@ -40,3 +40,45 @@ c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\SandboxPTC\o
 c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\SandboxPTC\obj\Debug\SandboxPTC.pdb
 c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\SandboxPTC\bin\PTCData.dll
 c:\users\vladislav\documents\visual studio 2015\Projects\SandboxPTC\SandboxPTC\bin\PTCData.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\csc.exe
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\vbc.exe
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\SandboxPTC.dll.config
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\SandboxPTC.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\SandboxPTC.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\Antlr3.Runtime.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\Newtonsoft.Json.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\PTCData.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.Helpers.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.Mvc.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.Optimization.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.Razor.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.WebPages.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\WebGrease.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\PTCData.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.Helpers.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.Mvc.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.Optimization.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.Razor.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.WebPages.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\Antlr3.Runtime.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\Newtonsoft.Json.xml
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\obj\Debug\SandboxPTC.csprojResolveAssemblyReference.cache
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\obj\Debug\SandboxPTC.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\obj\Debug\SandboxPTC.pdb

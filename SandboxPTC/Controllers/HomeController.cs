@@ -21,9 +21,21 @@ namespace SandboxPTC.Controllers
         [HttpPost]
         public ActionResult Index(TrainingProductViewModel vm)
         {
+            vm.IsValid = ModelState.IsValid;
+
             vm.HandleRequest();
 
-            ModelState.Clear();
+            if (vm.IsValid)
+            {
+                ModelState.Clear();
+            }
+            else
+            {
+                foreach (KeyValuePair<string, string> item in vm.ValidationErrors)
+                {
+                    ModelState.AddModelError(item.Key, item.Value);
+                }
+            }
 
             return View(vm);
         }
