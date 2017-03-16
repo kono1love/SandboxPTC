@@ -30,6 +30,13 @@ namespace PTCData
             return (ValidationErrors.Count == 0);
         }
 
+        public bool Delete(TrainingProduct entity)
+        {
+            //TODO: Create delete code
+
+            return true;
+        }
+
         public TrainingProduct Get(int productId)
         {
             List<TrainingProduct> list = new List<TrainingProduct>();

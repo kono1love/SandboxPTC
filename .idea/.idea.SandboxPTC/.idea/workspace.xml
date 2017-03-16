@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2b052ec-718f-4563-98af-20dbd346f939" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxPTC/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxPTC/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxPTC/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxPTC/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vs/SandboxPTC/v14/.suo" afterPath="$PROJECT_DIR$/.vs/SandboxPTC/v14/.suo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PTCData/bin/Debug/PTCData.dll" afterPath="$PROJECT_DIR$/PTCData/bin/Debug/PTCData.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PTCData/bin/Debug/PTCData.pdb" afterPath="$PROJECT_DIR$/PTCData/bin/Debug/PTCData.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PTCData/obj/Debug/PTCData.dll" afterPath="$PROJECT_DIR$/PTCData/obj/Debug/PTCData.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PTCData/obj/Debug/PTCData.pdb" afterPath="$PROJECT_DIR$/PTCData/obj/Debug/PTCData.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SandboxPTC/bin/PTCData.dll" afterPath="$PROJECT_DIR$/SandboxPTC/bin/PTCData.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SandboxPTC/bin/PTCData.pdb" afterPath="$PROJECT_DIR$/SandboxPTC/bin/PTCData.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SandboxPTC/bin/SandboxPTC.dll" afterPath="$PROJECT_DIR$/SandboxPTC/bin/SandboxPTC.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SandboxPTC/bin/SandboxPTC.pdb" afterPath="$PROJECT_DIR$/SandboxPTC/bin/SandboxPTC.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SandboxPTC/obj/Debug/SandboxPTC.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/SandboxPTC/obj/Debug/SandboxPTC.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SandboxPTC/obj/Debug/SandboxPTC.dll" afterPath="$PROJECT_DIR$/SandboxPTC/obj/Debug/SandboxPTC.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SandboxPTC/obj/Debug/SandboxPTC.pdb" afterPath="$PROJECT_DIR$/SandboxPTC/obj/Debug/SandboxPTC.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PTCData/TrainingProductManager.cs" afterPath="$PROJECT_DIR$/PTCData/TrainingProductManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs" afterPath="$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SandboxPTC/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/SandboxPTC/Views/Home/Index.cshtml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TrainingProductViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding>
+                <marker date="1489693163934" expanded="true" signature="6:138" ph="..." />
+                <marker date="1489693163934" expanded="true" signature="157:4723" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="201:4721" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="249:444" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="1068:1264" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="1301:2311" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="1354:2301" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="1560:1635" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="2340:3027" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="2452:2516" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="2533:2597" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="2696:2757" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="2797:3017" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="2847:2914" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="2935:3003" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="3060:3256" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="3284:3519" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="3548:3728" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="3759:4036" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="4067:4241" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="4274:4443" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="4479:4549" ph="{...}" />
+                <marker date="1489693163934" expanded="true" signature="4577:4715" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SandboxPTC/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding>
+                <marker date="1488406060234" expanded="true" signature="6:121" ph="..." />
+                <marker date="1488406060234" expanded="true" signature="155:945" ph="{...}" />
+                <marker date="1488406060234" expanded="true" signature="202:943" ph="{...}" />
+                <marker date="1488406060234" expanded="true" signature="244:401" ph="{...}" />
+                <marker date="1488406060234" expanded="true" signature="484:937" ph="{...}" />
+                <marker date="1488406060234" expanded="true" signature="601:665" ph="{...}" />
+                <marker date="1488406060234" expanded="true" signature="682:897" ph="{...}" />
+                <marker date="1488406060234" expanded="true" signature="779:883" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrainingProductManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <marker date="1489692994715" expanded="true" signature="6:152" ph="..." />
+                <marker date="1489692994715" expanded="true" signature="171:4264" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="213:4262" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="259:349" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="487:921" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="595:861" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="681:847" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="973:1058" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="1109:1447" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="1499:1709" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="1598:1674" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="1760:1970" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="1859:1935" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="2036:2467" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="2265:2432" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="2522:4256" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="2645:2924" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="2982:3261" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="3319:3591" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="3649:3913" ph="{...}" />
+                <marker date="1489692994715" expanded="true" signature="3971:4219" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SandboxPTC/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="142" column="32" lean-forward="false" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
+              <folding>
+                <marker date="1489692866563" expanded="true" signature="67:103" ph="@..." />
+                <marker date="1489692866563" expanded="true" signature="105:6381" ph="@..." />
+                <marker date="1489692866563" expanded="true" signature="130:6381" ph="{...}" />
+                <marker date="1489692866563" expanded="true" signature="386:1582" ph="{...}" />
+                <marker date="1489692866563" expanded="true" signature="401:1576" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="447:558" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="571:887" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="612:868" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="741:845" ph="@{...}" />
+                <marker date="1489692866563" expanded="true" signature="900:1561" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="943:1131" ph="&lt;button.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="1148:1342" ph="&lt;button.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="1359:1542" ph="&lt;button.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="1675:4591" ph="{...}" />
+                <marker date="1489692866563" expanded="true" signature="1690:4585" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="1736:1847" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="1860:3773" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="1943:2699" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="1981:2676" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="2029:2649" ph="@..." />
+                <marker date="1489692866563" expanded="true" signature="2049:2649" ph="{...}" />
+                <marker date="1489692866563" expanded="true" signature="2104:2623" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="2200:2525" ph="&lt;button.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="2295:2412" ph="&lt;span.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="2756:3000" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="2879:2977" ph="@{...}" />
+                <marker date="1489692866563" expanded="true" signature="3017:3276" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="3150:3253" ph="@{...}" />
+                <marker date="1489692866563" expanded="true" signature="3293:3512" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="3399:3489" ph="@{...}" />
+                <marker date="1489692866563" expanded="true" signature="3529:3754" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="3639:3731" ph="@{...}" />
+                <marker date="1489692866563" expanded="true" signature="3786:4570" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="3829:4551" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="3867:4528" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="3915:4147" ph="&lt;button.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="4172:4501" ph="&lt;button.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="4680:6352" ph="{...}" />
+                <marker date="1489692866563" expanded="true" signature="4695:6346" ph="&lt;div.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="4738:6331" ph="&lt;table.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="4833:5203" ph="&lt;thead.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="4857:5178" ph="&lt;tr.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="5220:6310" ph="&lt;tbody.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="5244:6285" ph="@..." />
+                <marker date="1489692866563" expanded="true" signature="5281:6285" ph="{...}" />
+                <marker date="1489692866563" expanded="true" signature="5320:6267" ph="&lt;tr.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="5558:5860" ph="&lt;td.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="5625:5830" ph="&lt;a.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="5885:6241" ph="&lt;td.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="5952:6211" ph="&lt;a.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="6383:6773" ph="@{...}" />
+                <marker date="1489692866563" expanded="true" signature="6406:6771" ph="&lt;script.../&gt;" />
+                <marker date="1489692866563" expanded="true" signature="6453:6755" ph="{...}" />
+                <marker date="1489692866563" expanded="true" signature="6516:6743" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+      <find>dele</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SandboxPTC/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/PTCData/TrainingProductManager.cs" />
+        <option value="$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandboxPTC (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PTCData" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SandboxPTC/SandboxPTC.csproj" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <option name="EXE_PATH" value="C:/Program Files/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/.idea/config/applicationhost.config /site:SandboxPTC /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SandboxPTC" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="RuntimeDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2b052ec-718f-4563-98af-20dbd346f939" name="Default" comment="" />
+      <created>1489093711027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489093711027</updated>
+      <workItem from="1489093713548" duration="259000" />
+      <workItem from="1489126394051" duration="336000" />
+      <workItem from="1489176633967" duration="602000" />
+      <workItem from="1489246989368" duration="692000" />
+      <workItem from="1489253809787" duration="188000" />
+      <workItem from="1489691869268" duration="1730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3807000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30877572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1359275" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SandboxPTC/Controllers/HomeController.cs</url>
+          <line>23</line>
+          <properties startOffset="507" endOffset="539" documentPath="$PROJECT_DIR$/SandboxPTC/Controllers/HomeController.cs" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs</url>
+          <line>65</line>
+          <properties startOffset="1836" endOffset="1850" documentPath="$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489693163934" expanded="true" signature="6:138" ph="..." />
+            <marker date="1489693163934" expanded="true" signature="157:4723" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="201:4721" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="249:444" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1068:1264" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1301:2311" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1354:2301" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1560:1635" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2340:3027" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2452:2516" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2533:2597" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2696:2757" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2797:3017" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2847:2914" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2935:3003" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3060:3256" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3284:3519" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3548:3728" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3759:4036" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4067:4241" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4274:4443" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4479:4549" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4577:4715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489693163934" expanded="true" signature="6:138" ph="..." />
+            <marker date="1489693163934" expanded="true" signature="157:4723" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="201:4721" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="249:444" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1068:1264" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1301:2311" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1354:2301" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1560:1635" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2340:3027" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2452:2516" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2533:2597" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2696:2757" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2797:3017" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2847:2914" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2935:3003" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3060:3256" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3284:3519" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3548:3728" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3759:4036" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4067:4241" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4274:4443" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4479:4549" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4577:4715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489693163934" expanded="true" signature="6:138" ph="..." />
+            <marker date="1489693163934" expanded="true" signature="157:4723" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="201:4721" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="249:444" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1068:1264" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1301:2311" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1354:2301" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1560:1635" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2340:3027" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2452:2516" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2533:2597" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2696:2757" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2797:3017" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2847:2914" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2935:3003" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3060:3256" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3284:3519" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3548:3728" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3759:4036" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4067:4241" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4274:4443" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4479:4549" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4577:4715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489693163934" expanded="true" signature="6:138" ph="..." />
+            <marker date="1489693163934" expanded="true" signature="157:4723" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="201:4721" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="249:444" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1068:1264" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1301:2311" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1354:2301" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1560:1635" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2340:3027" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2452:2516" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2533:2597" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2696:2757" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2797:3017" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2847:2914" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2935:3003" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3060:3256" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3284:3519" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3548:3728" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3759:4036" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4067:4241" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4274:4443" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4479:4549" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4577:4715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489693163934" expanded="true" signature="6:138" ph="..." />
+            <marker date="1489693163934" expanded="true" signature="157:4723" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="201:4721" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="249:444" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1068:1264" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1301:2311" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1354:2301" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1560:1635" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2340:3027" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2452:2516" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2533:2597" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2696:2757" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2797:3017" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2847:2914" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2935:3003" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3060:3256" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3284:3519" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3548:3728" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3759:4036" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4067:4241" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4274:4443" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4479:4549" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4577:4715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SandboxPTC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="142" column="32" lean-forward="false" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
+          <folding>
+            <marker date="1489692866563" expanded="true" signature="67:103" ph="@..." />
+            <marker date="1489692866563" expanded="true" signature="105:6381" ph="@..." />
+            <marker date="1489692866563" expanded="true" signature="130:6381" ph="{...}" />
+            <marker date="1489692866563" expanded="true" signature="386:1582" ph="{...}" />
+            <marker date="1489692866563" expanded="true" signature="401:1576" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="447:558" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="571:887" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="612:868" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="741:845" ph="@{...}" />
+            <marker date="1489692866563" expanded="true" signature="900:1561" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="943:1131" ph="&lt;button.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="1148:1342" ph="&lt;button.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="1359:1542" ph="&lt;button.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="1675:4591" ph="{...}" />
+            <marker date="1489692866563" expanded="true" signature="1690:4585" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="1736:1847" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="1860:3773" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="1943:2699" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="1981:2676" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="2029:2649" ph="@..." />
+            <marker date="1489692866563" expanded="true" signature="2049:2649" ph="{...}" />
+            <marker date="1489692866563" expanded="true" signature="2104:2623" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="2200:2525" ph="&lt;button.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="2295:2412" ph="&lt;span.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="2756:3000" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="2879:2977" ph="@{...}" />
+            <marker date="1489692866563" expanded="true" signature="3017:3276" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="3150:3253" ph="@{...}" />
+            <marker date="1489692866563" expanded="true" signature="3293:3512" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="3399:3489" ph="@{...}" />
+            <marker date="1489692866563" expanded="true" signature="3529:3754" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="3639:3731" ph="@{...}" />
+            <marker date="1489692866563" expanded="true" signature="3786:4570" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="3829:4551" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="3867:4528" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="3915:4147" ph="&lt;button.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="4172:4501" ph="&lt;button.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="4680:6352" ph="{...}" />
+            <marker date="1489692866563" expanded="true" signature="4695:6346" ph="&lt;div.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="4738:6331" ph="&lt;table.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="4833:5203" ph="&lt;thead.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="4857:5178" ph="&lt;tr.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="5220:6310" ph="&lt;tbody.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="5244:6285" ph="@..." />
+            <marker date="1489692866563" expanded="true" signature="5281:6285" ph="{...}" />
+            <marker date="1489692866563" expanded="true" signature="5320:6267" ph="&lt;tr.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="5558:5860" ph="&lt;td.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="5625:5830" ph="&lt;a.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="5885:6241" ph="&lt;td.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="5952:6211" ph="&lt;a.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="6383:6773" ph="@{...}" />
+            <marker date="1489692866563" expanded="true" signature="6406:6771" ph="&lt;script.../&gt;" />
+            <marker date="1489692866563" expanded="true" signature="6453:6755" ph="{...}" />
+            <marker date="1489692866563" expanded="true" signature="6516:6743" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1489692994715" expanded="true" signature="6:152" ph="..." />
+            <marker date="1489692994715" expanded="true" signature="171:4264" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="213:4262" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="259:349" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="487:921" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="595:861" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="681:847" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="973:1058" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="1109:1447" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="1499:1709" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="1598:1674" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="1760:1970" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="1859:1935" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="2036:2467" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="2265:2432" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="2522:4256" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="2645:2924" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="2982:3261" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="3319:3591" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="3649:3913" ph="{...}" />
+            <marker date="1489692994715" expanded="true" signature="3971:4219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PTCData/TrainingProductViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <marker date="1489693163934" expanded="true" signature="6:138" ph="..." />
+            <marker date="1489693163934" expanded="true" signature="157:4723" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="201:4721" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="249:444" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1068:1264" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1301:2311" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1354:2301" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="1560:1635" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2340:3027" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2452:2516" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2533:2597" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2696:2757" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2797:3017" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2847:2914" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="2935:3003" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3060:3256" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3284:3519" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3548:3728" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="3759:4036" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4067:4241" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4274:4443" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4479:4549" ph="{...}" />
+            <marker date="1489693163934" expanded="true" signature="4577:4715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SandboxPTC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <marker date="1488406060234" expanded="true" signature="6:121" ph="..." />
+            <marker date="1488406060234" expanded="true" signature="155:945" ph="{...}" />
+            <marker date="1488406060234" expanded="true" signature="202:943" ph="{...}" />
+            <marker date="1488406060234" expanded="true" signature="244:401" ph="{...}" />
+            <marker date="1488406060234" expanded="true" signature="484:937" ph="{...}" />
+            <marker date="1488406060234" expanded="true" signature="601:665" ph="{...}" />
+            <marker date="1488406060234" expanded="true" signature="682:897" ph="{...}" />
+            <marker date="1488406060234" expanded="true" signature="779:883" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

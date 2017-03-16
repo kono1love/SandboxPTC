@@ -62,6 +62,11 @@ namespace PTCData
                     Edit();
                     break;
 
+                case "delete":
+                    ResetSearch();
+                    Delete();
+                    break;
+
                 case "cancel":
                     ListMode();
                     Get();
@@ -76,7 +81,7 @@ namespace PTCData
                    Add();
                     break;
 
-               
+
                 default:
                     break;
             }
@@ -147,6 +152,19 @@ namespace PTCData
             EditMode(); 
         }
 
+        private void Delete()
+        {
+            TrainingProductManager mgr = new TrainingProductManager();
+
+            Entity = new TrainingProduct();
+
+            Entity.ProductId = Convert.ToInt32(EventArgument);
+
+            mgr.Delete(Entity);
+            Get();
+
+            ListMode();
+        }
         private void AddMode()
         {
       
