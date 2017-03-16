@@ -8,3 +8,5 @@ C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\bin\Debug\PTCData.pdb
 C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\obj\Debug\PTCData.csprojResolveAssemblyReference.cache
 C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\obj\Debug\PTCData.dll
 C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\obj\Debug\PTCData.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\bin\Debug\PTCCommon.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCData\bin\Debug\PTCCommon.pdb

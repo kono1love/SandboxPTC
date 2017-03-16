@@ -82,3 +82,5 @@ C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\Newtonsoft.Json
 C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\obj\Debug\SandboxPTC.csprojResolveAssemblyReference.cache
 C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\obj\Debug\SandboxPTC.dll
 C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\obj\Debug\SandboxPTC.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\PTCCommon.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\SandboxPTC\bin\PTCCommon.pdb

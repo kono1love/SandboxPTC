@@ -1,0 +1,5 @@
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCCommon\bin\Debug\PTCCommon.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCCommon\bin\Debug\PTCCommon.pdb
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCCommon\obj\Debug\PTCCommon.csprojResolveAssemblyReference.cache
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCCommon\obj\Debug\PTCCommon.dll
+C:\Users\Kono1love\Projects\SandboxPTC\SandboxPTC\PTCCommon\obj\Debug\PTCCommon.pdb
